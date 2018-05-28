@@ -9,7 +9,7 @@ name: Melat Tekie
 description: Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/MelatTekie/MelatTekie.github.io/blob/master/images/33692680_1908007645917536_5725419485511286784_n.jpg
+avatar: https://MelatTekie.github.io/images/33692680_1908007645917536_5725419485511286784_n.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: MelatTekie/MelatTekie.github.io
   instagram:
-  linkedin: https://www.linkedin.com/in/melat-tekie-9b03a6154
+  linkedin: melat-tekie-9b03a6154
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
