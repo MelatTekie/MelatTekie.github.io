@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Intro
+layout: gal
+title: pic
 permalink: /gallary/
 ---
 acasdas
