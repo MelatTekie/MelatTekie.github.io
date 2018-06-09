@@ -1,6 +1,6 @@
 ---
 layout: gal
 title: pic
-permalink: /gallary/
+permalink: /melo/
 ---
 acasdas
